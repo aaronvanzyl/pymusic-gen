@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "String Quartet #08 in F major, K 168, mvt. 2",
+    "date": "2019-06-11T19:44:47.063Z",
+    "producer": "Dezrann 55ad1c4e",
+    "cite": "P. Allegraud et al., Learning sonata form structure on Mozart's string quartets, in revision",
+    "curator": "Laurent Feisthauer",
+    "source": "http://www.algomus.fr/data"
+  },
+  "labels": [
+    {"type": "Structure", "start": 0, "duration": 83.5, "line": "top.1", "tag": "EXPOSITION"},
+    {"type": "Structure", "start": 84, "duration": 17, "line": "top.1", "tag": "DEVELOPMENT"},
+    {"type": "Structure", "start": 102, "duration": 97, "line": "top.1", "tag": "RECAPITULATION"},
+    {"type": "Structure", "start": 0, "duration": 39, "line": "top.2", "tag": "P"},
+    {"type": "Structure", "start": 39, "duration": 20, "line": "top.2", "tag": "TR"},
+    {"type": "Structure", "start": 59, "duration": 24.5, "line": "top.2", "tag": "S"},
+    {"type": "Structure", "start": 102, "duration": 39, "line": "top.2", "tag": "P'"},
+    {"type": "Structure", "start": 141, "duration": 23, "line": "top.2", "tag": "TR'"},
+    {"type": "Structure", "start": 164, "duration": 35, "line": "top.2", "tag": "S'"},
+    {"type": "Tonality", "start": 0, "duration": 20, "line": "bot.1", "tag": "Fm"},
+    {"type": "Tonality", "start": 51, "duration": 36, "line": "bot.1", "tag": "Cm"},
+    {"type": "Cadence", "start": 36, "line": "all", "tag": "III:PAC"},
+    {"type": "Cadence", "start": 57, "line": "all", "tag": "V:HC MC"},
+    {"type": "Cadence", "start": 81, "line": "all", "tag": "V:PAC EEC"},
+    {"type": "Cadence", "start": 99, "line": "all", "tag": "i:HC"},
+    {"type": "Cadence", "start": 138, "line": "all", "tag": "I:PAC"},
+    {"type": "Cadence", "start": 162, "line": "all", "tag": "I:HC MC'"},
+    {"type": "Cadence", "start": 195, "line": "all", "tag": "I:PAC ESC"},
+    {"type": "Tonality", "start": 20, "duration": 31, "line": "bot.1", "tag": "A-"},
+    {"type": "Tonality", "start": 87, "duration": 6, "line": "bot.1", "tag": "B-m"},
+    {"type": "Tonality", "start": 93, "duration": 106, "line": "bot.1", "tag": "Fm"}
+  ]
+}

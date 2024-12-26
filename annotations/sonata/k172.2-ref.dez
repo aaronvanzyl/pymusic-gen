@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "String Quartet #12 in B\u266d major, K 172, mvt. 2",
+    "date": "2019-05-29T20:21:56.610Z",
+    "producer": "Dezrann 55ad1c4e",
+    "cite": "P. Allegraud et al., Learning sonata form structure on Mozart's string quartets, in revision",
+    "curator": "Laurent Feisthauer",
+    "source": "http://www.algomus.fr/data"
+  },
+  "labels": [
+    {"type": "Structure", "start": 0, "duration": 43.75, "line": "top.1", "tag": "EXPOSITION"},
+    {"type": "Structure", "start": 44, "duration": 27.75, "line": "top.1", "tag": "DEVELOPMENT"},
+    {"type": "Structure", "start": 72, "duration": 43.75, "line": "top.1", "tag": "RECAPITULATION"},
+    {"type": "Structure", "start": 116, "duration": 7, "line": "top.1", "tag": "CODA"},
+    {"type": "Structure", "start": 0, "duration": 15.75, "line": "top.2", "tag": "P"},
+    {"type": "Structure", "start": 16, "duration": 24, "line": "top.2", "tag": "S"},
+    {"type": "Structure", "start": 40, "duration": 3.75, "line": "top.2", "tag": "C"},
+    {"type": "Structure", "start": 72, "duration": 15.75, "line": "top.2", "tag": "P'"},
+    {"type": "Structure", "start": 88, "duration": 24, "line": "top.2", "tag": "S'"},
+    {"type": "Structure", "start": 112, "duration": 3.75, "line": "top.2", "tag": "C'"},
+    {"type": "Structure", "start": 0, "duration": 43.75, "line": "top.3", "tag": "Erster Teil Flothuis"},
+    {"type": "Structure", "start": 44, "duration": 27.75, "line": "top.3", "tag": "Zwziter Teil Erster Abschnitt Flothuis"},
+    {"type": "Structure", "start": 72, "duration": 43.75, "line": "top.3", "tag": "Zweiter Teil Zweites Abschnitt Flothuis"},
+    {"type": "Cadence", "start": 14, "line": "all", "tag": "I:HC MC"},
+    {"type": "Cadence", "start": 40, "line": "all", "tag": "V:PAC EEC"},
+    {"type": "Cadence", "start": 60, "line": "all", "tag": "vi:PAC"},
+    {"type": "Cadence", "start": 68, "line": "all", "tag": "I:HC"},
+    {"type": "Cadence", "start": 86, "line": "all", "tag": "I:HC MC'"},
+    {"type": "Cadence", "start": 112, "line": "all", "tag": "I:PAC ESC"},
+    {"type": "Tonality", "start": 46, "duration": 3.75, "line": "bot.1", "tag": "Fm"},
+    {"type": "Tonality", "start": 50, "duration": 1.75, "line": "bot.1", "tag": "Gm"},
+    {"type": "Tonality", "start": 52, "duration": 8.75, "line": "bot.1", "tag": "Cm"},
+    {"type": "Tonality", "start": 0, "duration": 15.75, "line": "bot.1", "tag": "E-"},
+    {"type": "Tonality", "start": 15.75, "duration": 28, "line": "bot.1", "tag": "B-"},
+    {"type": "Tonality", "start": 44, "duration": 1.5, "line": "bot.1", "tag": "E-"},
+    {"type": "Tonality", "start": 61, "duration": 62, "line": "bot.1", "tag": "E-"}
+  ]
+}
